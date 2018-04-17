@@ -1,5 +1,6 @@
 {
 "profile":[
-{"id":1,"login":"houda","pass":1234}
+{"id":1,"login":"houda","pass":1234},
+{"id":2,"login":"manare","pass":12345}
 ]
 }

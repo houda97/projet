@@ -1,4 +1,4 @@
-
+{
 "profile":[
 {"id":1,"login":"houda","pass":1234},
 {"id":2,"login":"manare","pass":12345},
@@ -6,4 +6,4 @@
 {"id":4,"login":"maryame","pass":2345},
 {"id":5,"login":"rajae","pass":1245}
 ]
-
+}

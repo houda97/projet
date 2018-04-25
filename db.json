@@ -1,9 +1,9 @@
 {
 "profile":[
-{"id":1,"login":"houda","pass":1234},
-{"id":2,"login":"manare","pass":12345},
-{"id":3,"login":"imane","pass":1345},
-{"id":4,"login":"maryame","pass":2345},
-{"id":5,"login":"rajae","pass":1245}
+{"temp_max":11,"temp_min":10,"date":1},
+{"temp_max":15,"temp_min":12,"date":2},
+{"temp_max":30,"temp_min":28,"date":3},
+{"temp_max":15,"temp_min":9,"date":4},
+{"temp_max":28,"temp_min":25,"date":5}
 ]
 }

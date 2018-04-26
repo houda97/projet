@@ -1,5 +1,5 @@
 {
-  "product":[
+  "profile":[
     {"id":1, "name":"cap", "color":"red"},
     {"id":1, "name":"phone", "color":"white"},
     {"id":3, "name":"desk", "color":"green"}

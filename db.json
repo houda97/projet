@@ -2,6 +2,7 @@
   "profile" : [
     {"id":1, "name":"cap", "color":"red"},
     {"id":2, "name":"phone", "color":"white"},
-    {"id":3, "name":"desk", "color":"green"}
+    {"id":3, "name":"desk", "color":"green"},
+    {"id":4, "name":"camputer", "color":"black"}
   ]
 }
